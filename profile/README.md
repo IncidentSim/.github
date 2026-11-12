@@ -10,6 +10,8 @@
   <a href="https://github.com/IncidentSim">Репозитории проекта</a> ·
   <a href="https://github.com/IncidentSim/tui-ansible-runner/releases">Скачать CLI</a> ·
   <a href="https://github.com/IncidentSim/exersice">Каталог задач</a>
+  <a href="https://docs.google.com/presentation/d/171t5UEodGWdoduWWmfZ1i3iNt6PVC_HMWxkdxhUvyM4/edit?slide=id.p1#slide=id.p1">Презентация</a>
+  
 </p>
 
 </div>
